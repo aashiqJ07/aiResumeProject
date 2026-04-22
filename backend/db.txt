@@ -1,0 +1,5 @@
+aashikjindani031_db_user : useername
+
+umoliQKlwVe5aaLx113 : password
+
+mongodb+srv://aashikjindani031_db_user:<db_password>@interview-ai-cluster.khejdnu.mongodb.net/interview-master
